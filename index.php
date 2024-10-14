@@ -21,7 +21,7 @@
                     <label for="password">Lozinka</label>
                     <input type="password" name="password" class="form-control" required>
                 </div>
-                <button type="submit" class="btn btn-primary btn-block mt-4" name="submit">Prijavi se</button>
+                <button type="submit" class="btn btn-primary btn-block mt-4" name="submit">Prijava</button>
             </form>
         </div>
     </div>
